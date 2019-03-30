@@ -1,1 +1,1 @@
-# Stepic_Basics-of-statistics
+# Stepic: Basics of statistics
